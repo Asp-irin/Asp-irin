@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently a Junior pursuing CSE at IIT BHilai<br>I'm looking forward to collaborate on Web Development based Stuff<br>I'm into Backend Development now.<br>Talks about User-Interface Design
+I'm Currently a Junior pursuing CSE at IIT BHilai<br>I'm looking forward to collaborate on Web Development based Stuff<br>I'm into Dev-Ops now.<br>Talks about User-Interface Design
 
 
 ## 🌐 Socials:
